@@ -2,8 +2,6 @@
 This repository contains the PyTorch implementation for a GAN inversion framework enabling property-targeted materials design, with specific application to Shape Memory Alloys (SMAs). The code implements conditional generation of materials composition-processing parameters with targeted properties via deep generative modeling.
 
 ## Repository Structure
-
-.
 ├── c_p_WGAN_inversion.py            # Property-targeted inverse design framework
 ├── c_p_WGAN_gp_sampel.py            # Unconditional random sample generation
 ├── README.md
